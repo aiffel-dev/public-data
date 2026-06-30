@@ -1,0 +1,46 @@
+record_id,record_date,unit_section,activity_type,item_or_course_or_equipment,planned_qty,actual_qty,status,cost_krw,personnel_count,issue_note
+ADM-0001,2026-06-01,본부,supply,문서철,30,28,normal,56000,0,
+ADM-0002,2026-06-01,통신,supply,랜케이블,20,18,normal,90000,0,
+ADM-0003,2026-06-01,정비,maintenance,차량 A,1,1,completed,120000,2,
+ADM-0004,2026-06-02,보급,supply,전지,50,42,shortage,168000,0,예상보다 사용량 증가
+ADM-0005,2026-06-02,수송,maintenance,차량 B,1,0,delayed,0,2,부품 대기
+ADM-0006,2026-06-02,의무,training,응급처치 교육,12,11,normal,0,12,1명 일정 변경
+ADM-0007,2026-06-03,본부,training,보안 기본교육,15,14,normal,0,15,1명 보충 필요
+ADM-0008,2026-06-03,통신,maintenance,무전 장비 A,1,1,completed,80000,2,
+ADM-0009,2026-06-03,정비,supply,정비 장갑,40,35,shortage,105000,0,소모량 증가
+ADM-0010,2026-06-04,보급,supply,복사용지,60,60,normal,180000,0,
+ADM-0011,2026-06-04,수송,training,차량 안전교육,10,8,attention,0,10,참석률 낮음
+ADM-0012,2026-06-04,의무,supply,구급 소모품,25,21,shortage,210000,0,재고 확인 필요
+ADM-0013,2026-06-05,본부,maintenance,프린터 A,1,1,completed,45000,1,
+ADM-0014,2026-06-05,통신,training,통신 보안교육,11,10,normal,0,11,1명 보충 예정
+ADM-0015,2026-06-05,정비,maintenance,발전기 A,1,0,delayed,0,3,정비 일정 연기
+ADM-0016,2026-06-06,보급,supply,방진마스크,35,32,normal,96000,0,
+ADM-0017,2026-06-06,수송,supply,차량 점검표,25,25,normal,25000,0,
+ADM-0018,2026-06-06,의무,training,위생관리 교육,13,13,normal,0,13,
+ADM-0019,2026-06-07,본부,supply,토너,8,6,attention,300000,0,재주문 필요
+ADM-0020,2026-06-07,통신,maintenance,무전 장비 B,1,0,delayed,0,2,추가 점검 필요
+ADM-0021,2026-06-07,정비,training,장비 안전교육,14,12,attention,0,14,참석률 낮음
+ADM-0022,2026-06-08,보급,supply,작업용 장갑,45,43,normal,129000,0,
+ADM-0023,2026-06-08,수송,maintenance,차량 C,1,1,completed,160000,2,
+ADM-0024,2026-06-08,의무,supply,소독 티슈,40,37,normal,74000,0,
+ADM-0025,2026-06-09,본부,training,AI 윤리 교육,16,15,normal,0,16,1명 보충 예정
+ADM-0026,2026-06-09,통신,supply,케이블 타이,30,24,shortage,48000,0,재고 부족
+ADM-0027,2026-06-09,정비,maintenance,공구 세트 A,1,1,completed,70000,1,
+ADM-0028,2026-06-10,보급,training,재고관리 교육,9,7,attention,0,9,참석률 낮음
+ADM-0029,2026-06-10,수송,supply,안전 조끼,20,19,normal,95000,0,
+ADM-0030,2026-06-10,의무,maintenance,응급 키트 A,1,1,completed,35000,1,
+ADM-0031,2026-06-11,본부,supply,파일 박스,25,23,normal,46000,0,
+ADM-0032,2026-06-11,통신,training,장비 운용교육,12,9,attention,0,12,참석률 낮음
+ADM-0033,2026-06-11,정비,supply,윤활유,18,15,shortage,225000,0,추가 확보 필요
+ADM-0034,2026-06-12,보급,maintenance,창고 스캐너,1,1,completed,60000,1,
+ADM-0035,2026-06-12,수송,maintenance,차량 D,1,0,delayed,0,2,부품 대기
+ADM-0036,2026-06-12,의무,training,응급처치 교육,13,12,normal,0,13,1명 보충 필요
+ADM-0037,2026-06-13,본부,training,문서관리 교육,10,10,normal,0,10,
+ADM-0038,2026-06-13,통신,supply,무전기 배터리,16,13,attention,260000,0,예비품 부족
+ADM-0039,2026-06-13,정비,maintenance,발전기 B,1,1,completed,135000,3,
+ADM-0040,2026-06-14,보급,supply,포장 테이프,30,28,normal,42000,0,
+ADM-0041,2026-06-14,수송,training,차량 안전교육,11,10,normal,0,11,1명 보충 예정
+ADM-0042,2026-06-14,의무,supply,응급 붕대,35,31,attention,93000,0,재고 주의
+ADM-0043,2026-06-15,본부,maintenance,회의실 장비,1,1,completed,50000,1,
+ADM-0044,2026-06-15,통신,maintenance,네트워크 장비 A,1,0,delayed,0,2,원인 확인 중
+ADM-0045,2026-06-15,정비,training,정비 안전교육,15,14,normal,0,15,1명 보충 예정
